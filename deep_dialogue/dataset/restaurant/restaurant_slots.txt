@@ -1,0 +1,14 @@
+Food
+Price
+Area
+Name
+Time
+Day
+People
+Ref
+Addr
+Phone
+Choice
+Post
+taskcomplete
+greeting
